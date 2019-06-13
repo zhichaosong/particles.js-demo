@@ -3,11 +3,12 @@ a Starry background demo of particles.js
 
 > 官方给的例子有点复杂，项目中一般就引一个 JS 文件然后调用好了，简单粗暴，网上很少有想要的效果，而且都没有源码，这里分享一个
 
-@[toc]
+
 # 一、源码地址
+ - 效果演示：https://zhichaosong.github.io/particles-js/
  - 官方地址：https://github.com/VincentGarreau/particles.js
  - demo地址：https://github.com/zhichaosong/particles.js-demo
- - CSDN下载：
+ - CSDN下载：https://download.csdn.net/download/zhichaosong/11238470
 # 二、实现效果
 ## 1. 电脑端
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190613021042104.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poaWNoYW9zb25n,size_16,color_FFFFFF,t_70)
